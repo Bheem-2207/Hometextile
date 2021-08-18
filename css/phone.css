@@ -1,0 +1,110 @@
+/*Masterbadroom Home section */
+#home{
+height: 483px;
+}
+#home::before{
+    height: 70%;
+ }
+#home p{
+    font-size: 13px;
+    padding: 3px;
+}
+#home h1{
+    font-size: 30px;
+}
+/* Home section for babyroom*/
+#Babyroom{
+    height: 483px;
+    }
+    #Babyroom::before{
+        height: 70%;
+     }
+    #Babyroom p{
+        font-size: 13px;
+        padding: 3px;
+    }
+    #Babyroom h1{
+        font-size: 30px;
+    }
+    /* Guest Room */
+    /* Home section */
+#Guestroom{
+    height: 483px;
+    }
+    #Guestroom::before{
+        height: 70%;
+     }
+    #Guestroom p{
+        font-size: 13px;
+        padding: 3px;
+    }
+    #Guestroom h1{
+        font-size: 30px;
+    }
+    /* Home section */
+#Decor{
+    height: 483px;
+    }
+    #Decor::before{
+        height: 70%;
+     }
+    #Decor p{
+        font-size: 13px;
+        padding: 3px;
+    }
+    #Decor h1{
+        font-size: 30px;
+    }
+    /* Home section for Hall */
+#Livingroom{
+    height: 483px;
+    }
+    #Livingroom::before{
+        height: 70%;
+     }
+    #Livingroom p{
+        font-size: 13px;
+        padding: 3px;
+    }
+    #Livingroom h1{
+        font-size: 30px;
+    }
+    /* Home section for garden */
+#Garden{
+    height: 483px;
+    }
+    #Garden::before{
+        height: 70%;
+     }
+    #Garden p{
+        font-size: 13px;
+        padding: 3px;
+    }
+    #Garden h1{
+        font-size: 30px;
+    }
+/* Services Section */
+#services{
+flex-direction: column;
+}
+#services .box{
+    width: 278px;
+    margin: 2px;
+    padding: 12px;
+}
+#servicess h1{
+    font-size: 34px;
+}
+/* Utility classes */
+.btn{
+    font-size: 13px;
+    padding: 4px 8px;
+}
+.center{
+    text-align: center;
+    font-size: 15px;
+}
+.h_primary{
+    padding: 7px;
+    font-size: 34px;
+}
